@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.rtoshiro.mflibrary:mflibrary:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/52ff935426ae97e49d176ee4be2eb1e2/mflibrary-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/52ff935426ae97e49d176ee4be2eb1e2/mflibrary-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.rtoshiro.mflibrary/mflibrary/1.0.0/fad08bc4e0b8b0ee22a517853102395ebd8caec9/mflibrary-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.rtoshiro.mflibrary/mflibrary/1.0.0/fc5dc5faa8bae9c452ee555c10f55831b988530f/mflibrary-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
