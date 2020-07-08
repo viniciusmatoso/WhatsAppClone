@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <menu tools:context="whatsapp.cursoandroid.com.whatsapp.activity.LoginActivity"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/item_configuracoes"
+        app:showAsAction="never"
+        android:orderInCategory="100"
+        android:id="@+id/action_settings"/>
+
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "857073771851",
+    "firebase_url": "https://whats-e567a.firebaseio.com",
+    "project_id": "whats-e567a",
+    "storage_bucket": "whats-e567a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857073771851:android:93c6a5ed1108cde14474ce",
+        "android_client_info": {
+          "package_name": "firebaseapp.cursoandroid.whts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857073771851-1a084ptc506nnbdgp91q6jilvkdf4jca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firebaseapp.cursoandroid.whts",
+            "certificate_hash": "e76847a7d713a63201869063657d2180909be5e0"
+          }
+        },
+        {
+          "client_id": "857073771851-2e9t16lno18gcdskuennd2e7cmv66pre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfwiE4dcD5YoyAw2YOGHOn9ovQ5VKgCZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857073771851-2e9t16lno18gcdskuennd2e7cmv66pre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
