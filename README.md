@@ -9,12 +9,12 @@ O projeto é uma simples cópia do app 'WhatsApp', contendo uma lista de contato
 ## Sumário
 - [WhatsAppClone](#whatsappclone)
   - [Sumário](#sumário)
-  - [Requisitos](#requisitos)
+  - [Uso](#uso)
   - [Tecnologias](#tecnologias)
 
-## Requisitos
+## Uso
 
-Para poder utilizar esse aplicativo é necessário que possua a IDE do Android Studio para executá-lo.
+Para poder utilizar esse aplicativo é necessário que possua a IDE do Android Studio para executá-lo, juntamente com um emulador para demonstrar o uso.
 
 ## Tecnologias 
 
