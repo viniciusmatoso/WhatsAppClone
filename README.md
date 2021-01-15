@@ -18,6 +18,8 @@ Para poder utilizar esse aplicativo é necessário que possua a IDE do Android S
 
 ## Tecnologias 
 
-<img src="androidstudio.svg" width="10%"><img src="android.svg" width="10%"><img src="java.svg" width="10%"><img src="firebase.svg" width="10%">
+![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)
+![Android](https://www.vectorlogo.zone/logos/android/android-ar21.svg)
+![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg)
 
 
