@@ -18,6 +18,9 @@ Para poder utilizar esse aplicativo é necessário que possua a IDE do Android S
 
 ## Tecnologias 
 
-![AndroidStudio](androidstudio.svg)
+<img src="androidstudio.svg" width="10%">
+<img src="android.svg" width="10%">
+<img src="java.svg" width="10%">
+<img src="firebase.svg" width="10%">
 
 
