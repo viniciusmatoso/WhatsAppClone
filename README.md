@@ -1,28 +1,45 @@
 # WhatsAppClone
 
-Projeto criado para a plataforma Android em conjunto com o Firebase (BaaS).
-
-O projeto é uma simples cópia do app 'WhatsApp', contendo uma lista de contatos, conversas e chats.
-
 <img src="whatsapp.png" width="90%">
 
 ## Sumário
 - [WhatsAppClone](#whatsappclone)
   - [Sumário](#sumário)
-  - [Uso](#uso)
-  - [Tecnologias](#tecnologias)
+  - [Descrição](#descrição)
+  - [Pré-requisitos](#pré-requisitos)
+  - [Passo-a-passo para utilização](#passo-a-passo-para-utilização)
+  - [Imagens do Aplicativo](#imagens-do-aplicativo)
+  - [Tecnologias Utilizadas](#tecnologias-utilizadas)
   - [Como Contribuir](#como-contribuir)
 
-## Uso
+## Descrição
 
-Para poder utilizar esse aplicativo é necessário que possua a IDE do Android Studio para executá-lo, juntamente com um emulador configurado para demonstrar o uso.
+Projeto criado para a plataforma [Android](https://www.android.com/intl/pt-BR_br/), sendo utilizado o [Firebase](https://firebase.google.com/) para a base de dados dessa aplicação.
 
-## Tecnologias 
+O projeto é uma simples cópia do aplicativo 'WhatsApp', contendo uma lista de contatos, conversas e chats. Você pode cadastrar uma nova conta, adicionar colegas e iniciar uma nova conversa pelo chat de mensagens.
+
+
+## Pré-requisitos
+
+Para poder realizar a execução desse aplicativo é necessário que possua a IDE do [Android Studio](https://developer.android.com/studio?hl=pt-br) para executá-lo. Deve possuir também um emulador de smartphone configurado para demonstrar o uso. 
+
+## Passo-a-passo para utilização
+
+
+
+## Imagens do Aplicativo
+
+<img src="wpp_cadastro.png" width="40%" height="440">
+<img src="wpp_contatos.png" width="40%" height="440">
+<img src="wpp_conversas.png" width="40%" height="440">
+<img src="wpp_conversa.png" width="40%" height="440">
+
+## Tecnologias Utilizadas
 
 ![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)
 ![Android](https://www.vectorlogo.zone/logos/android/android-ar21.svg)
 ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg)
-
+![XML](https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg)
 ## Como Contribuir
 
 Contribuições são sempre bem-vindas. Existem várias maneiras de contribuir com este projeto, como:
@@ -33,3 +50,4 @@ Contribuições são sempre bem-vindas. Existem várias maneiras de contribuir c
 - 📄 Ajudando a melhorar a documentação.
 - 🚀 Compartilhando este projeto com seus amigos.
 
+Voltar ao [topo](#whatsappclone).
