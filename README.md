@@ -15,7 +15,7 @@ O projeto é uma simples cópia do app 'WhatsApp', contendo uma lista de contato
 
 ## Uso
 
-Para poder utilizar esse aplicativo é necessário que possua a IDE do Android Studio para executá-lo, juntamente com um emulador para demonstrar o uso.
+Para poder utilizar esse aplicativo é necessário que possua a IDE do Android Studio para executá-lo, juntamente com um emulador configurado para demonstrar o uso.
 
 ## Tecnologias 
 
