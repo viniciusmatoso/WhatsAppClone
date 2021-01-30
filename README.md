@@ -29,9 +29,11 @@ Para poder realizar a execução desse aplicativo é necessário que possua a ID
 
 ## Imagens do Aplicativo
 
-<img src="wpp_cadastro.png" width="25%" height="380"><img src="wpp_contatos.png" width="25%" height="380">
-<img src="wpp_conversas.png" width="25%" height="380">
-<img src="wpp_conversa.png" width="25%" height="380">
+<img src="wpp_login.png" width="40%" height="380">
+<img src="wpp_cadastro.png" width="40%" height="380">
+<img src="wpp_conversas.png" width="40%" height="380">
+<img src="wpp_contatos.png" width="40%" height="380">
+<img src="wpp_chat.png" width="40%" height="380">
 
 ## Tecnologias Utilizadas
 

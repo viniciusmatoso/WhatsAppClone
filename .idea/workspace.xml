@@ -11,9 +11,12 @@
   <component name="ChangeListManager">
     <list default="true" id="cf1bd104-ef82-45f6-8f8c-f7b620dbca32" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wpp_cadastro.png" beforeDir="false" afterPath="$PROJECT_DIR$/wpp_cadastro.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wpp_contatos.png" beforeDir="false" afterPath="$PROJECT_DIR$/wpp_contatos.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wpp_conversa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wpp_conversas.png" beforeDir="false" afterPath="$PROJECT_DIR$/wpp_conversas.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +91,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ScreenshotViewer.SavePath" value="$PROJECT_DIR$" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="asset" value="rO0ABXNyADxkZS5tcHJlbmdlbWFubi5pbnRlbGxpai5wbHVnaW4uYW5kcm9pZGljb25zLm1vZGVsLkltYWdlQXNzZXQl990GqIfF7gIABkwACGNhdGVnb3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAGY29sb3JzdAAQTGphdmEvdXRpbC9MaXN0O0wABG5hbWVxAH4AAUwABHBhY2txAH4AAUwAC3Jlc29sdXRpb25zcQB+AAJMAAVzaXplc3EAfgACeHB0AA1jb21tdW5pY2F0aW9uc3IAE2phdmEudXRpbC5BcnJheUxpc3R4gdIdmcdhnQMAAUkABHNpemV4cAAAAAJ3BAAAAAJ0AAVibGFja3QABXdoaXRleHQAC2ljX2NvbnRhY3RzdAAObWF0ZXJpYWxfaWNvbnNzcQB+AAUAAAAGdwQAAAAGfnIAPGRlLm1wcmVuZ2VtYW5uLmludGVsbGlqLnBsdWdpbi5hbmRyb2lkaWNvbnMubW9kZWwuUmVzb2x1dGlvbgAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABkFOWURQSX5xAH4ADHQABEhEUEl+cQB+AAx0AARNRFBJfnEAfgAMdAAFWEhEUEl+cQB+AAx0AAZYWEhEUEl+cQB+AAx0AAdYWFhIRFBJeHNxAH4ABQAAAAR3BAAAAAR0AAQxOGRwdAAEMjRkcHQABDM2ZHB0AAQ0OGRweA==" />
     <property name="color" value="black" />
@@ -220,9 +224,38 @@
     </todo-panel>
   </component>
   <component name="WindowStateProjectService">
-    <state x="1366" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1611892980472">
-      <screen x="1366" y="0" width="1366" height="728" />
+    <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1612025271902">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1612025271902" />
+    <state width="1323" height="132" key="GridCell.Tab.0.bottom" timestamp="1612024836282">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="132" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612024836282" />
+    <state width="1323" height="132" key="GridCell.Tab.0.center" timestamp="1612024836282">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="132" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1612024836282" />
+    <state width="1323" height="132" key="GridCell.Tab.0.left" timestamp="1612024836281">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="132" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1612024836281" />
+    <state width="1323" height="132" key="GridCell.Tab.0.right" timestamp="1612024836282">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="132" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612024836282" />
+    <state x="414" y="240" key="ScreenshotRecorder.Options.Dimensions" timestamp="1612025207023">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="414" y="240" key="ScreenshotRecorder.Options.Dimensions/0.0.1366.728@0.0.1366.728" timestamp="1612025207023" />
+    <state x="120" y="0" key="ScreenshotViewer.Dimensions" timestamp="1612025272989">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="120" y="0" key="ScreenshotViewer.Dimensions/0.0.1366.728@0.0.1366.728" timestamp="1612025272989" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1612024446084">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="1366" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1611892980472" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1612024446084" />
   </component>
 </project>
