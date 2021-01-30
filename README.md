@@ -29,8 +29,7 @@ Para poder realizar a execução desse aplicativo é necessário que possua a ID
 
 ## Imagens do Aplicativo
 
-<img src="wpp_login.png" width="30%" height="380">
-<img src="wpp_cadastro.png" width="30%" height="380">
+<img src="wpp_login.png" width="30%" height="380"><img src="wpp_cadastro.png" width="30%" height="380">
 <img src="wpp_conversas.png" width="30%" height="380">
 <img src="wpp_contatos.png" width="30%" height="380">
 <img src="wpp_chat.png" width="30%" height="380">
