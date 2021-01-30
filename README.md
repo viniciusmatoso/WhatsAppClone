@@ -7,7 +7,6 @@
   - [Sumário](#sumário)
   - [Descrição](#descrição)
   - [Pré-requisitos](#pré-requisitos)
-  - [Passo-a-passo para utilização](#passo-a-passo-para-utilização)
   - [Imagens do Aplicativo](#imagens-do-aplicativo)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
   - [Como Contribuir](#como-contribuir)
@@ -18,14 +17,9 @@ Projeto criado para a plataforma [Android](https://www.android.com/intl/pt-BR_br
 
 O projeto é uma simples cópia do aplicativo 'WhatsApp', contendo uma lista de contatos, conversas e chats. Você pode cadastrar uma nova conta, adicionar colegas e iniciar uma nova conversa pelo chat de mensagens.
 
-
 ## Pré-requisitos
 
-Para poder realizar a execução desse aplicativo é necessário que possua a IDE do [Android Studio](https://developer.android.com/studio?hl=pt-br) para executá-lo. Deve possuir também um emulador de smartphone configurado para demonstrar o uso. 
-
-## Passo-a-passo para utilização
-
-
+Para poder realizar a execução desse aplicativo é necessário que possua a IDE do [Android Studio](https://developer.android.com/studio?hl=pt-br) para executá-lo. Deve possuir também um emulador de smartphone configurado para a utilização do mesmo. 
 
 ## Imagens do Aplicativo
 
@@ -40,6 +34,7 @@ Para poder realizar a execução desse aplicativo é necessário que possua a ID
 ![Android](https://www.vectorlogo.zone/logos/android/android-ar21.svg)
 ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg)
 ![XML](https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg)
+
 ## Como Contribuir
 
 Contribuições são sempre bem-vindas. Existem várias maneiras de contribuir com este projeto, como:
