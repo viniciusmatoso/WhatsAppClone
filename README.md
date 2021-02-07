@@ -9,6 +9,7 @@
   - [Pré-requisitos](#pré-requisitos)
   - [Imagens do Aplicativo](#imagens-do-aplicativo)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
+  - [Licença](#licença)
   - [Como Contribuir](#como-contribuir)
 
 ## Descrição
