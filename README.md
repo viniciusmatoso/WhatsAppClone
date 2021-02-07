@@ -35,6 +35,10 @@ Para poder realizar a execução desse aplicativo é necessário que possua a ID
 ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg)
 ![XML](https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg)
 
+## Licença
+
+[GNU General Public License v3.0](LICENSE)
+
 ## Como Contribuir
 
 Contribuições são sempre bem-vindas. Existem várias maneiras de contribuir com este projeto, como:
